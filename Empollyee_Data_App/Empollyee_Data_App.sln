@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empolyee.DAL", "Empolyee.DAL\Empolyee.DAL.csproj", "{8600144F-395E-4D33-BAE0-0AE0829F4E50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empolyee.BLL", "Empolyee.BLL\Empolyee.BLL.csproj", "{EA3093D0-F63F-4D8D-9D78-2FB900F83857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empolyee.UI", "Empolyee.UI\Empolyee.UI.csproj", "{0120B985-94B6-4686-8C01-9EE52176E01A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8600144F-395E-4D33-BAE0-0AE0829F4E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8600144F-395E-4D33-BAE0-0AE0829F4E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8600144F-395E-4D33-BAE0-0AE0829F4E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8600144F-395E-4D33-BAE0-0AE0829F4E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3093D0-F63F-4D8D-9D78-2FB900F83857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3093D0-F63F-4D8D-9D78-2FB900F83857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3093D0-F63F-4D8D-9D78-2FB900F83857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3093D0-F63F-4D8D-9D78-2FB900F83857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0120B985-94B6-4686-8C01-9EE52176E01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0120B985-94B6-4686-8C01-9EE52176E01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0120B985-94B6-4686-8C01-9EE52176E01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0120B985-94B6-4686-8C01-9EE52176E01A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
